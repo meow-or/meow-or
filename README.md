@@ -11,4 +11,5 @@ HTML / CSS / JavaScript / GIT / Webpack / Node.js / github
 
 ## связь со мной
 tg: @sttcx
+
 email: sttcx2014@yandex.ru
