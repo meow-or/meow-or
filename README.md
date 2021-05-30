@@ -9,7 +9,3 @@ HTML / CSS / JavaScript / GIT / Webpack / Node.js / github
 
 ![1](https://user-images.githubusercontent.com/73703906/120066239-25163200-c08f-11eb-8733-caa04b5791c6.png)
 
-### Связь со мной
-tg: @sttcx
-
-email: sttcx2014@yandex.ru
