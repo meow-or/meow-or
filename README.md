@@ -7,7 +7,7 @@
 
 ### Мой стек
 
-HTML / CSS / JavaScript / GIT /...
+HTML / CSS / JavaScript / GIT / адаптивная вёрстка
 
 ![1](https://user-images.githubusercontent.com/73703906/120066239-25163200-c08f-11eb-8733-caa04b5791c6.png)
 
